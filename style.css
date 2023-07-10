@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&family=Ibarra+Real+Nova:ital,wght@1,500&family=Open+Sans:wght@300&family=Playfair+Display&family=Poppins:wght@300;400&family=Roboto:wght@300&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+header{
+background-image: url("/Group\ 1.png") ;
+height: 1000px;
+min-height: 350px;
+background-size: cover;
+}
+.nav-link{
+    margin: 0px 20px;
+}
+.navbar-nav{
+     margin-right: 250px;
+}
+.new{
+  position: absolute;
+  top: 48%;
+  left: 16%;
+
+}
+.new h3{
+  font-size: 2rem;
+  margin-bottom: 8px;
+}
+.para{
+  width: 60%;
+  margin-bottom: 54px;
+}
+.Jewellery{
+  font-size: 4rem;
+  font-weight: bolder;
+  margin-bottom: 21px;
+  margin-top: 5px;
+}
+/* .btn{
+  background-color: black;
+  color: azure;
+  padding: 23px;
+} */
+.section{
+  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+}
+.img{
+  /* display: inline-block; */
+  height: 270px;
+  width: 375px;
+  /* border: 4px solid red; */
+  margin: 0px 15px;
+  font-family: 'Poppins', sans-serif
+}
+.img h5{
+  margin: 12px 20px;
+  color: rgb(251, 181, 52);
+  font-size: 25px;
+}
+.img img{
+  height: 130px;
+  width: 40%;
+  display: block;
+  margin: 0px auto;
+}
+.img p{
+color: rgb(18,18,18);
+font-size: 25px;
+line-height: 3.736;
+padding-left: 23px;
+}
+#para1{
+  z-index: 55;
+}
+/* .Bracelet_ {
+  font-size: 25px;
+  font-family: "Poppins";
+  color: rgb(18, 18, 18);
+  text-transform: uppercase;
+  line-height: 3.736;
+  text-align: left;
+  position: absolute;
+  left: 242.938px;
+  top: 1179.8px;
+  z-index: 55;
+} */
+#para2{
+z-index: 53;
+}
+#para3{
+z-index: 57;
+}
+#box2{
+  background-color:rgb(255,255,255) ;
+  box-shadow: 0px 0px 68px 0px rgba(2, 3, 8, 0.09);
+  z-index: 48;
+}
+#box1{
+  z-index: 46;
+  border-width: 0.66px;
+  border-color: rgb(228, 229, 233);
+  border-style: solid;
+}
+#box3{
+border-width: 0.59px;
+border-color: rgb(228, 229, 233);
+border-style: solid;
+z-index: 49;
+}
+#sectiona{
+  margin-top: 160px;
+  padding-bottom: 80px;
+}
+.btnn{
+  color: rgb(255,255,255);
+  background-color: rgb(17,17,17);
+  height: 56px;
+  width: 205px;
+font-size: 17px;
+z-index: 67;
+margin-left: 73px;
+margin-bottom: 25px;
+}
+
+.sectionc{
+  background-color: rgb(248,248,248);
+  width: 100%;
+  height: 968px;
+  z-index: 56;
+  position: absolute;
+ 
+}
+/* .Rectangle_32 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 216px;
+  top: 2142px;
+  width: 375px;
+  height: 610px;
+  z-index: 72;
+} */
+.diamond{
+  background-color: rgb(255,255,255);
+  width: 375px;
+  height: 610px;
+  z-index: 72;
+  /* border: 3px solid red; */
+  margin-top: 175px; 
+  margin-left: 20px;
+  text-align: center;
+}
+/* .Diamond_Ring {
+  font-size: 20px;
+  font-family: "Poppins";
+  color: rgb(18, 18, 18);
+  font-weight: bold;
+  line-height: 4.67;
+  text-align: left;
+  position: absolute;
+  left: 326.766px;
+  top: 2262.666px;
+  z-index: 78;
+} */
+.diamond h3{
+color: rgb(18,18,18);
+font-weight: bold;
+line-height: 4.67;
+z-index: 78;
+font-size: 20px;
+}
+#imgrings2{
+  height: 194px;
+  width: 190px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
